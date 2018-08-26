@@ -1,4 +1,5 @@
-# manage-tasks Installation steps
+# manage-tasks Installation steps (Mongo instance must be installed : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
 task-api/npm install
 
 task-api/node app.js
